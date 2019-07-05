@@ -31,3 +31,7 @@ The outcome variable is “unsafe” and is constructed from various DOB violati
 •	Building Area = 250,000 to 1,000,000 square feet
 
 •	Community Board = CB 103, CB 111, CB 107
+
+### Some Buildings Predicted to be High Risk
+
+
