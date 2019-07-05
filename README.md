@@ -34,4 +34,18 @@ The outcome variable is “unsafe” and is constructed from various DOB violati
 
 ### Some Buildings Predicted to be High Risk
 
+![59791541-5b8e8400-92a0-11e9-8207-fff25ded3920](https://user-images.githubusercontent.com/36938994/60740994-e1176280-9f35-11e9-9ea5-94878159f419.png)
+
+![59791654-98f31180-92a0-11e9-9ba4-f2d67426f5c7](https://user-images.githubusercontent.com/36938994/60741016-f1c7d880-9f35-11e9-827d-ce85b67195a6.png)
+
+![59791859-f6875e00-92a0-11e9-867e-9f8e05e6abc6](https://user-images.githubusercontent.com/36938994/60741031-0015f480-9f36-11e9-99ea-f5a3f2d63478.png)
+
+
+### MAP
+
+![59791981-3a7a6300-92a1-11e9-90d9-7dd1fd2e8dd1](https://user-images.githubusercontent.com/36938994/60741065-19b73c00-9f36-11e9-9964-5c0c8447db7b.png)
+
+![map with label](https://user-images.githubusercontent.com/36938994/60741123-52571580-9f36-11e9-8966-43036bb3cf7d.png)
+
+
 
