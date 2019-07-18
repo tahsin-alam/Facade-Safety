@@ -48,4 +48,4 @@ The outcome variable is “unsafe” and is constructed from various DOB violati
 ![map with label](https://user-images.githubusercontent.com/36938994/60741123-52571580-9f36-11e9-8966-43036bb3cf7d.png)
 
 
-
+The map above demonstarte a NYC community districts and associated facade violation(count) in each districts. We can see from the map that mostly Downtwon and Midtown Manhatttan has more high risk buildings with facade violation.
