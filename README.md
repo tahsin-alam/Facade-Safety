@@ -55,9 +55,10 @@ The map above demonstarte a NYC community districts and associated facade violat
 
 ![image](https://user-images.githubusercontent.com/36938994/119533547-f416c400-bd53-11eb-8dfa-872c08a3b1b8.png)
 
-This is a facade violation dashbaord which shows the number of high risk buildings in New York city by  Community board, it highlghts the CB into a polygon shape feature layer by coloring them from deep to light representing high risk CB. The high risk buildings has been chosen according to their predicted confidence score after the modeling process.Confidence score of higher than 70-80% is placed into the high risk category for outcome violation "Yes". On the left side we have some attributes added into the dashboard such as buildings stories, area and year built as well as the pie chart on the top to understand what perecenatge of the high risk buildings flass into which categories. 
+This is a facade violation dashbaord which shows the number of high risk buildings in New York city by  Community board, it highlghts the CB into a polygon shape feature layer by coloring them from deep to light representing high risk CB. The high risk buildings has been chosen according to their predicted confidence score after the modeling process.Confidence score of higher than 70-80% is placed into the high risk category for outcome violation "Yes". On the left side we have some attributes added into the dashboard such as buildings stories, area and year built as well as the pie chart on the top to understand what perecenatge of the high risk buildings falls into which categories. 
+
 
 ![image](https://user-images.githubusercontent.com/36938994/119535094-aac77400-bd55-11eb-8365-bb471fae0fef.png)
 
-Another fetaure of this Map is, as we zoomed into a certain level we can have a full information on the stats of each individual buildings. The points on the map represents each buildings. This is the second feaeture layer used in this Map which is in point geometrical shape. 
+Another fetaure of this Map is, as we zoomed into a certain level we can have a full information on the stats of each individual buildings. The points on the map represents each buildings. This is the second feature layer used in this Map which is in point geometrical shape. 
  
